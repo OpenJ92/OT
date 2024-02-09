@@ -1,0 +1,14 @@
+@file questions.csv
+  @column ID(Integer) - Question ID used in @file surveys.csv columns
+  @column question(String) - English stated question
+
+@file answers.csv
+  @column ID - Answer ID used in @file surveys.csv in each @column n
+  @column answer - English stated answer
+
+@file surveys.csv
+  @column cohort(String) - file from which the row's derived
+  @column start(Integer) - starting page of the current survey 
+  @column n(Integer) - Question with ID n in @file questions.csv. Data is ID from @file answers.csv
+
+
