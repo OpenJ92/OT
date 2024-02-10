@@ -1,58 +1,58 @@
-test,cohort,start,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-before,prenurseAM,1 ,1,1,0,1,0,0,0,0,0,1,0,1,1,0,2
-before,prenurseAM,3 ,2,1,2,1,2,1,0,0,0,0,1,1,1,0,2
-before,prenurseAM,5 ,2,2,1,0,0,0,0,0,0,0,0,0,1,1,3
-before,prenurseAM,7 ,2,2,2,1,2,1,3,1,1,2,2,2,3,2,3
-before,prenurseAM,9 ,2,2,1,1,1,2,1,0,1,0,0,1,2,2,2
-before,prenurseAM,11,2,2,1,1,1,1,1,1,1,1,1,1,2,0,3
-before,prenurseAM,13,3,3,3,2,2,2,2,2,1,1,1,1,1,1,3
-before,prenurseAM,15,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2
-before,prenurseAM,17,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
-before,prenurseAM,19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
-before,prenurseAM,21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
-before,prenurseAM,23,1,1,1,1,1,1,1,1,1,1,1,1,1,0,3
-before,prenurseAM,25,2,1,0,0,1,2,0,0,0,0,1,0,2,0,2
-before,prenurseAM,27,1,1,1,1,1,1,2,0,1,1,0,2,2,1,2
-before,prenurseAM,29,2,2,2,2,2,2,2,2,1,2,2,2,2,2,3
-before,prenurseAM,31,3,3,2,1,2,1,2,0,1,1,2,2,3,1,3
-before,prenurseAM,33,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
-before,prenurseAM,35,1,1,2,3,2,3,2,2,1,1,1,3,3,1,3
-before,prenurseAM,37,1,1,0,0,0,0,0,0,0,1,0,1,1,1,2
-after,postnurseAM,1 ,3,3,2,2,3,3,3,1,1,3,1,2,3,3,3
-after,postnurseAM,3 ,3,3,2,3,1,3,1,2,2,2,3,3,3,1,3
-after,postnurseAM,5 ,4,4,3,2,4,3,2,1,3,2,3,3,4,2,4
-after,postnurseAM,7 ,3,3,3,1,1,2,1,1,2,2,2,2,3,2,3
-after,postnurseAM,9 ,3,3,2,1,2,3,1,1,2,1,1,2,3,3,3
-after,postnurseAM,11,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-after,postnurseAM,13,2,2,2,0,1,1,0,1,1,2,1,1,2,1,2
-after,postnurseAM,15,3,3,3,1,1,1,1,0,1,0,0,2,2,2,3
-after,postnurseAM,17,3,3,3,0,0,1,1,1,1,1,1,1,1,0,0
-after,postnurseAM,19,3,3,3,2,3,2,2,3,3,3,3,3,3,2,3
-after,postnurseAM,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3
-after,postnurseAM,23,3,4,3,3,3,3,2,3,4,3,3,3,4,4,3
-after,postnurseAM,25,1,1,3,0,0,0,0,0,1,0,0,1,2,0,2
-after,postnurseAM,27,3,3,3,2,1,2,0,1,1,1,1,3,3,0,2
-after,postnurseAM,29,3,3,3,3,2,2,2,2,2,3,3,3,3,3,3
-after,postnurseAM,31,3,3,3,2,3,3,3,1,2,3,2,3,3,1,3
-after,postnurseAM,33,4,3,4,0,2,1,0,0,0,1,0,1,4,0,2
-after,postnurseAM,35,2,2,2,1,2,1,1,1,2,1,1,2,2,1,2
-after,postnurseAM,37,3,3,4,2,2,4,2,1,2,3,3,2,4,2,4
-after,postnursePM,1 ,3,4,4,2,4,3,2,0,3,4,3,3,4,0,2
-after,postnursePM,3 ,2,2,2,1,2,2,1,3,2,2,1,2,2,1,3
-after,postnursePM,5 ,2,2,3,2,3,2,2,2,3,2,2,2,3,1,2
-after,postnursePM,7 ,4,2,3,3,4,3,0,4,3,1,1,1,3,1,4
-after,postnursePM,9 ,3,3,3,2,1,1,1,1,2,4,2,2,4,4,3
-after,postnursePM,11,3,3,2,2,3,3,2,3,3,2,2,2,3,1,2
-after,postnursePM,13,4,4,3,2,1,4,1,3,3,2,3,3,3,2,4
-after,postnursePM,15,3,3,4,3,3,4,4,2,3,2,3,4,4,2,4
-after,postnursePM,17,2,2,2,2,2,2,1,1,1,1,1,1,0,2,2
-after,postnursePM,19,2,2,1,1,1,2,2,1,3,2,2,3,3,1,2
-after,postnursePM,21,3,3,4,4,3,3,2,2,3,3,3,3,3,2,2
-after,postnursePM,23,3,3,2,2,3,2,1,1,2,2,2,3,2,2,3
-after,postnursePM,25,1,3,4,3,2,1,1,0,4,1,3,2,4,3,3
-after,postnursePM,27,1,3,4,3,1,3,1,1,4,3,3,3,4,3,2
-after,postnursePM,29,3,3,3,3,2,2,1,2,2,2,2,2,4,3,2
-after,postnursePM,31,2,2,3,2,1,2,0,0,1,1,2,3,3,2,3
-after,postnursePM,33,2,2,4,3,1,2,1,1,3,2,2,2,3,2,2
-after,postnursePM,35,3,2,4,0,4,3,0,0,3,4,3,4,4,0,0
-after,postnursePM,37,2,3,2,1,2,1,2,2,3,3,2,2,3,2,1
+cohort,test,file,start,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+AM,before,prenurseAM,1 ,1,1,0,1,0,0,0,0,0,1,0,1,1,0,2
+AM,before,prenurseAM,3 ,2,1,2,1,2,1,0,0,0,0,1,1,1,0,2
+AM,before,prenurseAM,5 ,2,2,1,0,0,0,0,0,0,0,0,0,1,1,3
+AM,before,prenurseAM,7 ,2,2,2,1,2,1,3,1,1,2,2,2,3,2,3
+AM,before,prenurseAM,9 ,2,2,1,1,1,2,1,0,1,0,0,1,2,2,2
+AM,before,prenurseAM,11,2,2,1,1,1,1,1,1,1,1,1,1,2,0,3
+AM,before,prenurseAM,13,3,3,3,2,2,2,2,2,1,1,1,1,1,1,3
+AM,before,prenurseAM,15,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2
+AM,before,prenurseAM,17,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+AM,before,prenurseAM,19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+AM,before,prenurseAM,21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+AM,before,prenurseAM,23,1,1,1,1,1,1,1,1,1,1,1,1,1,0,3
+AM,before,prenurseAM,25,2,1,0,0,1,2,0,0,0,0,1,0,2,0,2
+AM,before,prenurseAM,27,1,1,1,1,1,1,2,0,1,1,0,2,2,1,2
+AM,before,prenurseAM,29,2,2,2,2,2,2,2,2,1,2,2,2,2,2,3
+AM,before,prenurseAM,31,3,3,2,1,2,1,2,0,1,1,2,2,3,1,3
+AM,before,prenurseAM,33,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+AM,before,prenurseAM,35,1,1,2,3,2,3,2,2,1,1,1,3,3,1,3
+AM,before,prenurseAM,37,1,1,0,0,0,0,0,0,0,1,0,1,1,1,2
+AM,after,postnurseAM,1 ,3,3,2,2,3,3,3,1,1,3,1,2,3,3,3
+AM,after,postnurseAM,3 ,3,3,2,3,1,3,1,2,2,2,3,3,3,1,3
+AM,after,postnurseAM,5 ,4,4,3,2,4,3,2,1,3,2,3,3,4,2,4
+AM,after,postnurseAM,7 ,3,3,3,1,1,2,1,1,2,2,2,2,3,2,3
+AM,after,postnurseAM,9 ,3,3,2,1,2,3,1,1,2,1,1,2,3,3,3
+AM,after,postnurseAM,11,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+AM,after,postnurseAM,13,2,2,2,0,1,1,0,1,1,2,1,1,2,1,2
+AM,after,postnurseAM,15,3,3,3,1,1,1,1,0,1,0,0,2,2,2,3
+AM,after,postnurseAM,17,3,3,3,0,0,1,1,1,1,1,1,1,1,0,0
+AM,after,postnurseAM,19,3,3,3,2,3,2,2,3,3,3,3,3,3,2,3
+AM,after,postnurseAM,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3
+AM,after,postnurseAM,23,3,4,3,3,3,3,2,3,4,3,3,3,4,4,3
+AM,after,postnurseAM,25,1,1,3,0,0,0,0,0,1,0,0,1,2,0,2
+AM,after,postnurseAM,27,3,3,3,2,1,2,0,1,1,1,1,3,3,0,2
+AM,after,postnurseAM,29,3,3,3,3,2,2,2,2,2,3,3,3,3,3,3
+AM,after,postnurseAM,31,3,3,3,2,3,3,3,1,2,3,2,3,3,1,3
+AM,after,postnurseAM,33,4,3,4,0,2,1,0,0,0,1,0,1,4,0,2
+AM,after,postnurseAM,35,2,2,2,1,2,1,1,1,2,1,1,2,2,1,2
+AM,after,postnurseAM,37,3,3,4,2,2,4,2,1,2,3,3,2,4,2,4
+PM,after,postnursePM,1 ,3,4,4,2,4,3,2,0,3,4,3,3,4,0,2
+PM,after,postnursePM,3 ,2,2,2,1,2,2,1,3,2,2,1,2,2,1,3
+PM,after,postnursePM,5 ,2,2,3,2,3,2,2,2,3,2,2,2,3,1,2
+PM,after,postnursePM,7 ,4,2,3,3,4,3,0,4,3,1,1,1,3,1,4
+PM,after,postnursePM,9 ,3,3,3,2,1,1,1,1,2,4,2,2,4,4,3
+PM,after,postnursePM,11,3,3,2,2,3,3,2,3,3,2,2,2,3,1,2
+PM,after,postnursePM,13,4,4,3,2,1,4,1,3,3,2,3,3,3,2,4
+PM,after,postnursePM,15,3,3,4,3,3,4,4,2,3,2,3,4,4,2,4
+PM,after,postnursePM,17,2,2,2,2,2,2,1,1,1,1,1,1,0,2,2
+PM,after,postnursePM,19,2,2,1,1,1,2,2,1,3,2,2,3,3,1,2
+PM,after,postnursePM,21,3,3,4,4,3,3,2,2,3,3,3,3,3,2,2
+PM,after,postnursePM,23,3,3,2,2,3,2,1,1,2,2,2,3,2,2,3
+PM,after,postnursePM,25,1,3,4,3,2,1,1,0,4,1,3,2,4,3,3
+PM,after,postnursePM,27,1,3,4,3,1,3,1,1,4,3,3,3,4,3,2
+PM,after,postnursePM,29,3,3,3,3,2,2,1,2,2,2,2,2,4,3,2
+PM,after,postnursePM,31,2,2,3,2,1,2,0,0,1,1,2,3,3,2,3
+PM,after,postnursePM,33,2,2,4,3,1,2,1,1,3,2,2,2,3,2,2
+PM,after,postnursePM,35,3,2,4,0,4,3,0,0,3,4,3,4,4,0,0
+PM,after,postnursePM,37,2,3,2,1,2,1,2,2,3,3,2,2,3,2,1

@@ -7,9 +7,10 @@
   @column answer - English stated answer
 
 @file surveys.csv
-  @column test(String)   - Whether the test was taken before or after lecture.
-  @column cohort(String) - file from which the row's derived
-  @column start(Integer) - starting page of the current survey 
-  @column n(Integer) - Question with ID n in @file questions.csv. Data is ID from @file answers.csv
+  @column cohort(String)  - cohort that took the test.
+  @column test(String)   - test was taken before or after lecture.
+  @column file(String) - file from which the row's derived.
+  @column start(Integer) - starting page of the current survey.
+  @column n(Integer) - Question with ID n in @file questions.csv. Data is ID from @file answers.csv.
 
 
