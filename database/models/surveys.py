@@ -9,5 +9,3 @@ class Survey(db.Model):
     test = db.Column(db.Text)
     file = db.Column(db.Text)
     start = db.Column(db.Integer)
-
-    ## Synthetic table from raw. survey_id, question_id, answer_id
