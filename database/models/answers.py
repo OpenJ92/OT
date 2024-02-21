@@ -6,5 +6,3 @@ class Answer(db.Model):
 
     __id__ = db.Column(db.Integer, primary_key=True)
     answer = db.Column(db.Text)
-
-
